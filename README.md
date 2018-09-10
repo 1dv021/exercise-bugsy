@@ -1,9 +1,13 @@
 # Buggig kod
 
 - B-nivå
-- [GitBook](https://coursepress.gitbooks.io/1dv021/content/ovningsuppgifter/del1/buggig-kod/)
+- [GitBook](https://coursepress.gitbook.io/1dv021/ovningsuppgifter/del-1/b-niva/buggig-kod)
+- [Lösningsförslag](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/bugsy)
 
->__VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbooks.io/1dv021/content/guider/att-komma-igang-med-en-ovningsuppgift/) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+
+>__VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbook.io/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
+
+## Uppgift
 
 Hämta hem övningsuppgiftens repo och lägg till en .gitignore-fil. Öppna filen `src\bugsy.js` och gör de ändringar som krävs för att koden i funktionen `getGangster`ska fungera som avsett och testa grönt.
 
@@ -53,7 +57,3 @@ Funktioner, metoder, etc. som _kan_ komma till användning beroende hur du välj
 - [while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 - [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 - ([for...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of))
-
-## Lösningsförslag
-
-- [https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/bugsy](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/bugsy)
