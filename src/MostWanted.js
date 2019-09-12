@@ -37,7 +37,7 @@ function getInitials (name) {
     return name.split(' ').reduce((prev, next) => (prev += next.charAt(0)), '')
   }
 
-  throw new Error(`The argument passed must be a string that's not empty.`)
+  throw new Error('The argument passed must be a string that\'s not empty.')
 }
 
 exports.getNames = getNames

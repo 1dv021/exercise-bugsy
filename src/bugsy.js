@@ -19,7 +19,7 @@ const mostWanted = require('./mostWanted')
  */
 function getGangster (initials) {
   // TODO: Fix the bug(s) in this function to get the tests to pass.
-  let names = mostWanted.getNames()
+  const names = mostWanted.getNames()
   let theSuspect
   let name
   let initialsOfTheName
